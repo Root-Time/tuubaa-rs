@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Config" ALTER COLUMN "id" SET DATA TYPE BIGINT;
